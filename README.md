@@ -12,11 +12,11 @@
 ## 🐣 About Me
 
 Hey there! I’m Viom, an AI enthusiast who loves coding, creating, and playing games.  
-I dream of making my own cute video game one day and spend my free time modeling adorable 3D things in Blender!
+I dream of making my own video game one day and spend my free time modeling 3D things in Blender!
 
 ---
 
-## 💡 Skills & Sparkles
+## 💡 Skills
 
 - 🐍 **Python**
 - ☕ **Java**
@@ -27,11 +27,11 @@ I dream of making my own cute video game one day and spend my free time modeling
 
 ---
 
-## 🌸 What I'm Up To
+## What I'm Up To
 
 - Learning all things AI & ML
-- Building my very first video game (coming soon~!)
-- Making cuddly creatures in Blender
+- Building my very first video game
+- Making creatures in Blender
 - Leveling up my UI/UX magic
 
 ---
@@ -43,10 +43,6 @@ I dream of making my own cute video game one day and spend my free time modeling
 
 ---
 
-## 🧸 Fun Facts
-
-- Video games are my happy place 🎮
-- I can spend hours sculpting in Blender 🐻
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtpNmc0enNoOTV1eW5rZ3h2dGx5b3B3N3RqeHZjYjlxdWVlZGRlMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Blender cutesy gif" width="120"/>
@@ -54,4 +50,4 @@ I dream of making my own cute video game one day and spend my free time modeling
 
 ---
 
-> _Let’s be friends and make something together!_ 🌸✨
+> _Let’s be friends and make something together!_ ✨
