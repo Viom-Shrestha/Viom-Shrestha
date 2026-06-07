@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR4bGZ2N3dhM21xM2N4bHhsaWw1d3FtY3Y3M3Nka3I3dzA5ODNqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSbSGpGaRX2Vri/giphy.gif" alt="AI Student" width="220"/>
+
   
   # ✨ Hi, I'm Viom Shrestha! ✨
 
